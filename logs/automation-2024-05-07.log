@@ -1,0 +1,58 @@
+22:07:39.879 [main] INFO  testCases.TC_006_MyAccountInfo - My account clicked
+22:07:40.393 [main] INFO  testCases.TC_006_MyAccountInfo - Login clicked
+22:07:40.393 [main] INFO  testCases.TC_006_MyAccountInfo - Enterring user credentials
+22:07:41.248 [main] INFO  testCases.TC_006_MyAccountInfo - Login button clicked
+22:07:41.843 [main] INFO  testCases.TC_006_MyAccountInfo - Going to change info in my account page
+22:07:45.716 [main] INFO  testCases.TC_006_MyAccountInfo - Navigating to password change page
+22:09:21.435 [main] DEBUG testCases.TC_006_MyAccountInfo - application logs started......
+22:09:21.448 [main] INFO  testCases.TC_006_MyAccountInfo - **** starting TC_006_MyAccountInfo  *****
+22:09:22.257 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on MyAccount link
+22:09:22.866 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on registration link
+22:09:22.866 [main] INFO  testCases.TC_006_MyAccountInfo - Entering customer details.. 
+22:09:26.460 [main] INFO  testCases.TC_006_MyAccountInfo - clicked on continue..
+22:09:26.526 [main] INFO  testCases.TC_006_MyAccountInfo - Validating expected message..
+22:09:27.239 [main] INFO  testCases.TC_006_MyAccountInfo - My account clicked
+22:09:27.851 [main] INFO  testCases.TC_006_MyAccountInfo - Login clicked
+22:09:27.855 [main] INFO  testCases.TC_006_MyAccountInfo - Enterring user credentials
+22:09:28.825 [main] INFO  testCases.TC_006_MyAccountInfo - Login button clicked
+22:09:29.367 [main] INFO  testCases.TC_006_MyAccountInfo - Going to change info in my account page
+22:09:33.327 [main] INFO  testCases.TC_006_MyAccountInfo - Navigating to password change page
+22:19:40.334 [main] DEBUG testCases.TC_006_MyAccountInfo - application logs started......
+22:19:40.339 [main] INFO  testCases.TC_006_MyAccountInfo - **** starting TC_006_MyAccountInfo  *****
+22:19:40.520 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on MyAccount link
+22:19:41.097 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on registration link
+22:19:41.097 [main] INFO  testCases.TC_006_MyAccountInfo - Entering customer details.. 
+22:19:45.089 [main] INFO  testCases.TC_006_MyAccountInfo - clicked on continue..
+22:19:45.164 [main] INFO  testCases.TC_006_MyAccountInfo - Validating expected message..
+22:19:45.862 [main] INFO  testCases.TC_006_MyAccountInfo - My account clicked
+22:19:46.498 [main] INFO  testCases.TC_006_MyAccountInfo - Login clicked
+22:20:07.391 [main] DEBUG testCases.TC_006_MyAccountInfo - application logs started......
+22:20:07.401 [main] INFO  testCases.TC_006_MyAccountInfo - **** starting TC_006_MyAccountInfo  *****
+22:20:08.143 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on MyAccount link
+22:20:08.750 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on registration link
+22:20:08.750 [main] INFO  testCases.TC_006_MyAccountInfo - Entering customer details.. 
+22:20:12.449 [main] INFO  testCases.TC_006_MyAccountInfo - clicked on continue..
+22:20:12.520 [main] INFO  testCases.TC_006_MyAccountInfo - Validating expected message..
+22:20:13.415 [main] INFO  testCases.TC_006_MyAccountInfo - My account clicked
+22:20:13.967 [main] INFO  testCases.TC_006_MyAccountInfo - Login clicked
+22:22:20.015 [main] DEBUG testCases.TC_006_MyAccountInfo - application logs started......
+22:22:20.024 [main] INFO  testCases.TC_006_MyAccountInfo - **** starting TC_006_MyAccountInfo  *****
+22:22:20.159 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on MyAccount link
+22:22:20.698 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on registration link
+22:22:20.699 [main] INFO  testCases.TC_006_MyAccountInfo - Entering customer details.. 
+22:22:24.483 [main] INFO  testCases.TC_006_MyAccountInfo - clicked on continue..
+22:22:24.547 [main] INFO  testCases.TC_006_MyAccountInfo - Validating expected message..
+22:22:25.422 [main] INFO  testCases.TC_006_MyAccountInfo - My account clicked
+22:22:26.111 [main] INFO  testCases.TC_006_MyAccountInfo - Login clicked
+22:24:39.383 [main] DEBUG testCases.TC_006_MyAccountInfo - application logs started......
+22:24:39.388 [main] INFO  testCases.TC_006_MyAccountInfo - **** starting TC_006_MyAccountInfo  *****
+22:24:40.106 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on MyAccount link
+22:24:40.813 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on registration link
+22:24:40.813 [main] INFO  testCases.TC_006_MyAccountInfo - Entering customer details.. 
+22:24:44.628 [main] INFO  testCases.TC_006_MyAccountInfo - clicked on continue..
+22:24:44.691 [main] INFO  testCases.TC_006_MyAccountInfo - Validating expected message..
+22:24:48.667 [main] INFO  testCases.TC_006_MyAccountInfo - My account clicked
+22:24:49.561 [main] INFO  testCases.TC_006_MyAccountInfo - Login clicked
+22:28:02.144 [main] DEBUG testCases.TC_006_MyAccountInfo - application logs started......
+22:28:02.147 [main] INFO  testCases.TC_006_MyAccountInfo - **** starting TC_006_MyAccountInfo  *****
+22:28:02.311 [main] INFO  testCases.TC_006_MyAccountInfo - Clicked on MyAccount link

@@ -1,0 +1,53 @@
+00:22:51.240 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked third time
+00:22:51.339 [main] INFO  testCases.TC_009_NewsletterCheck - No radio button is selected
+00:22:51.974 [main] INFO  testCases.TC_009_NewsletterCheck - *** TC_009_NewsletterCheck Completed ***
+00:23:24.572 [main] INFO  testCases.TC_009_NewsletterCheck - *** TC_009_NewsletterCheck Started ***
+00:23:25.337 [main] INFO  testCases.TC_009_NewsletterCheck - Login into the account
+00:23:26.281 [main] INFO  testCases.TC_009_NewsletterCheck - Going to click newsletter
+00:23:26.930 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked
+00:23:27.974 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked again
+00:23:29.409 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked third time
+00:23:29.518 [main] INFO  testCases.TC_009_NewsletterCheck - No radio button is selected
+00:23:30.255 [main] INFO  testCases.TC_009_NewsletterCheck - *** TC_009_NewsletterCheck Completed ***
+13:27:07.697 [main] INFO  testCases.TC_009_NewsletterCheck - *** TC_009_NewsletterCheck Started ***
+13:27:09.147 [main] INFO  testCases.TC_009_NewsletterCheck - Login into the account
+13:27:10.115 [main] INFO  testCases.TC_009_NewsletterCheck - Going to click newsletter
+13:27:10.582 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked
+13:27:11.468 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked again
+13:27:12.628 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked third time
+13:27:12.715 [main] INFO  testCases.TC_009_NewsletterCheck - No radio button is selected
+13:27:13.142 [main] INFO  testCases.TC_009_NewsletterCheck - *** TC_009_NewsletterCheck Completed ***
+14:24:07.087 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+14:24:08.475 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+14:24:09.322 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+14:24:23.388 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+14:24:24.511 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+14:24:25.388 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+14:26:11.824 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+14:26:12.452 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+14:26:16.188 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+14:28:47.153 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+14:28:47.850 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+14:28:52.020 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+14:29:36.809 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+14:29:37.892 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+14:29:42.113 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+14:30:40.835 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+14:30:41.974 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+14:30:46.163 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+14:31:33.773 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+14:31:34.630 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+14:31:38.846 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+14:34:48.741 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+14:34:49.945 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+14:34:54.350 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+14:41:12.300 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+16:01:07.483 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+16:01:09.034 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+16:01:14.590 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+16:03:23.374 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+16:03:24.848 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+16:03:30.206 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+16:04:32.836 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+16:04:34.405 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+16:04:44.175 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel

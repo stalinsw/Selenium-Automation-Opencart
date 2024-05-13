@@ -1,0 +1,59 @@
+19:24:17.811 [main] INFO  testCases.TC_005_EndtoEndTest - My account clicked
+19:24:18.356 [main] INFO  testCases.TC_005_EndtoEndTest - Login clicked
+19:24:18.364 [main] INFO  testCases.TC_005_EndtoEndTest - Enterring user credentials
+19:24:19.284 [main] INFO  testCases.TC_005_EndtoEndTest - Login button clicked
+19:27:26.493 [main] INFO  testCases.TC_005_EndtoEndTest - **** Starting TC_005_EndtoEndTest  ****
+19:27:27.335 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on MyAccount link
+19:27:28.122 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on registration link
+19:27:28.122 [main] INFO  testCases.TC_005_EndtoEndTest - Entering customer details.. 
+19:27:32.099 [main] INFO  testCases.TC_005_EndtoEndTest - clicked on continue..
+19:27:32.176 [main] INFO  testCases.TC_005_EndtoEndTest - Validating expected message..
+19:27:33.005 [main] INFO  testCases.TC_005_EndtoEndTest - My account clicked
+19:27:33.572 [main] INFO  testCases.TC_005_EndtoEndTest - Login clicked
+19:27:33.573 [main] INFO  testCases.TC_005_EndtoEndTest - Enterring user credentials
+19:27:34.455 [main] INFO  testCases.TC_005_EndtoEndTest - Login button clicked
+19:29:20.946 [main] INFO  testCases.TC_005_EndtoEndTest - **** Starting TC_005_EndtoEndTest  ****
+19:29:21.634 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on MyAccount link
+19:29:22.281 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on registration link
+19:29:22.281 [main] INFO  testCases.TC_005_EndtoEndTest - Entering customer details.. 
+19:29:25.736 [main] INFO  testCases.TC_005_EndtoEndTest - clicked on continue..
+19:29:25.808 [main] INFO  testCases.TC_005_EndtoEndTest - Validating expected message..
+19:29:26.503 [main] INFO  testCases.TC_005_EndtoEndTest - My account clicked
+19:29:27.079 [main] INFO  testCases.TC_005_EndtoEndTest - Login clicked
+19:29:27.086 [main] INFO  testCases.TC_005_EndtoEndTest - Enterring user credentials
+19:29:28.113 [main] INFO  testCases.TC_005_EndtoEndTest - Login button clicked
+19:35:41.123 [main] INFO  testCases.TC_005_EndtoEndTest - **** Starting TC_005_EndtoEndTest  ****
+19:35:41.802 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on MyAccount link
+19:35:42.500 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on registration link
+19:35:42.502 [main] INFO  testCases.TC_005_EndtoEndTest - Entering customer details.. 
+19:35:46.305 [main] INFO  testCases.TC_005_EndtoEndTest - clicked on continue..
+19:35:46.379 [main] INFO  testCases.TC_005_EndtoEndTest - Validating expected message..
+19:35:47.150 [main] INFO  testCases.TC_005_EndtoEndTest - My account clicked
+19:35:47.658 [main] INFO  testCases.TC_005_EndtoEndTest - Login clicked
+19:35:47.666 [main] INFO  testCases.TC_005_EndtoEndTest - Enterring user credentials
+19:35:48.565 [main] INFO  testCases.TC_005_EndtoEndTest - Login button clicked
+20:07:58.392 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+20:07:58.436 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+20:24:32.113 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+20:25:10.476 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+20:27:00.741 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+20:35:03.276 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+20:35:43.954 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+20:36:59.965 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+20:38:23.477 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+20:42:28.638 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+20:43:13.817 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+22:21:24.278 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+22:22:36.735 [main] INFO  testCases.TC_011_HomePageUICheck - Login into the account
+22:47:23.758 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+22:48:58.776 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+22:56:23.524 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+22:56:54.703 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:00:12.559 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:01:55.202 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:03:12.764 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:05:37.193 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:07:49.718 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:09:40.704 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:11:12.744 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:12:36.485 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account

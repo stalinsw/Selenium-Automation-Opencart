@@ -1,4 +1,2 @@
-19:30:01.905 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under myaccount..
-19:30:01.921 [main] INFO  testCases.TC_002_LoginTest - Entering valid email and password..
-19:30:02.635 [main] INFO  testCases.TC_002_LoginTest - clicked on login button..
-19:30:02.698 [main] INFO  testCases.TC_002_LoginTest - **** Finished TC_002_LoginTest  ****
+23:13:07.698 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:13:44.788 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account

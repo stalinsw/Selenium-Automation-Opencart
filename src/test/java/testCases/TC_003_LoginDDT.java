@@ -72,7 +72,7 @@ public class TC_003_LoginDDT extends BaseClass{
 			Assert.fail("An exception occurred: " + e.getMessage());
 		}
 		
-		logger.info("**** Finished TC_002_LoginTest  ****");
+		logger.info("**** Finished TC_003_LoginDDT  ****");
 	}
 
 }

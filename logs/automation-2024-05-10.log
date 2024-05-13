@@ -1,0 +1,58 @@
+22:49:00.001 [main] INFO  testCases.TC_008_WishListCheck - 3rd soft assertion
+22:49:07.137 [main] INFO  testCases.TC_008_WishListCheck - Completed soft asertions
+22:49:11.937 [main] INFO  testCases.TC_008_WishListCheck - Continue clicked
+22:50:48.545 [main] INFO  testCases.TC_008_WishListCheck - *** TC_008_WishListCheck Started ***
+22:50:49.829 [main] INFO  testCases.TC_008_WishListCheck - Login into the account
+22:50:51.343 [main] INFO  testCases.TC_008_WishListCheck - Camera tab clicked from my account
+22:50:57.330 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertions for verifications
+22:50:57.429 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertion 1 for verification
+22:51:03.217 [main] INFO  testCases.TC_008_WishListCheck - Clicked wishlist
+22:51:08.182 [main] INFO  testCases.TC_008_WishListCheck - Clicked delete
+22:51:08.309 [main] INFO  testCases.TC_008_WishListCheck - 3rd soft assertion
+22:51:15.431 [main] INFO  testCases.TC_008_WishListCheck - Completed soft asertions
+22:51:20.332 [main] INFO  testCases.TC_008_WishListCheck - Continue clicked
+23:00:55.063 [main] INFO  testCases.TC_008_WishListCheck - *** TC_008_WishListCheck Started ***
+23:00:56.486 [main] INFO  testCases.TC_008_WishListCheck - Login into the account
+23:00:58.145 [main] INFO  testCases.TC_008_WishListCheck - Camera tab clicked from my account
+23:01:04.129 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertions for verifications
+23:01:04.265 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertion 1 for verification
+23:01:10.716 [main] INFO  testCases.TC_008_WishListCheck - Clicked wishlist
+23:01:15.905 [main] INFO  testCases.TC_008_WishListCheck - Clicked delete
+23:01:16.054 [main] INFO  testCases.TC_008_WishListCheck - 3rd soft assertion
+23:01:23.167 [main] INFO  testCases.TC_008_WishListCheck - Completed soft asertions
+23:01:28.059 [main] INFO  testCases.TC_008_WishListCheck - Continue clicked
+23:05:33.913 [main] INFO  testCases.TC_008_WishListCheck - *** TC_008_WishListCheck Started ***
+23:05:35.476 [main] INFO  testCases.TC_008_WishListCheck - Login into the account
+23:05:37.148 [main] INFO  testCases.TC_008_WishListCheck - Camera tab clicked from my account
+23:05:43.251 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertions for verifications
+23:05:43.331 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertion 1 for verification
+23:05:49.169 [main] INFO  testCases.TC_008_WishListCheck - Clicked wishlist
+23:05:53.927 [main] INFO  testCases.TC_008_WishListCheck - Clicked delete
+23:05:54.061 [main] INFO  testCases.TC_008_WishListCheck - 3rd soft assertion
+23:06:01.117 [main] INFO  testCases.TC_008_WishListCheck - Completed soft asertions
+23:06:05.877 [main] INFO  testCases.TC_008_WishListCheck - Continue clicked
+23:10:34.823 [main] INFO  testCases.TC_008_WishListCheck - *** TC_008_WishListCheck Started ***
+23:10:35.434 [main] INFO  testCases.TC_008_WishListCheck - Login into the account
+23:10:36.888 [main] INFO  testCases.TC_008_WishListCheck - Camera tab clicked from my account
+23:10:42.920 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertions for verifications
+23:10:43.075 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertion 1 for verification
+23:10:49.002 [main] INFO  testCases.TC_008_WishListCheck - Clicked wishlist
+23:10:54.080 [main] INFO  testCases.TC_008_WishListCheck - Clicked delete
+23:10:54.224 [main] INFO  testCases.TC_008_WishListCheck - 3rd soft assertion
+23:11:01.309 [main] INFO  testCases.TC_008_WishListCheck - Completed soft asertions
+23:11:06.342 [main] INFO  testCases.TC_008_WishListCheck - Continue clicked
+23:12:36.246 [main] INFO  testCases.TC_008_WishListCheck - *** TC_008_WishListCheck Started ***
+23:12:37.757 [main] INFO  testCases.TC_008_WishListCheck - Login into the account
+23:12:39.397 [main] INFO  testCases.TC_008_WishListCheck - Camera tab clicked from my account
+23:12:45.484 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertions for verifications
+23:12:45.564 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertion 1 for verification
+23:12:51.291 [main] INFO  testCases.TC_008_WishListCheck - Clicked wishlist
+23:12:56.509 [main] INFO  testCases.TC_008_WishListCheck - Clicked delete
+23:12:56.643 [main] INFO  testCases.TC_008_WishListCheck - 3rd soft assertion
+23:13:03.732 [main] INFO  testCases.TC_008_WishListCheck - Completed soft asertions
+23:13:08.609 [main] INFO  testCases.TC_008_WishListCheck - Continue clicked
+23:14:24.661 [main] INFO  testCases.TC_008_WishListCheck - *** TC_008_WishListCheck Started ***
+23:14:26.315 [main] INFO  testCases.TC_008_WishListCheck - Login into the account
+23:14:27.984 [main] INFO  testCases.TC_008_WishListCheck - Camera tab clicked from my account
+23:14:33.940 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertions for verifications
+23:14:34.099 [main] INFO  testCases.TC_008_WishListCheck - Checking soft assertion 1 for verification

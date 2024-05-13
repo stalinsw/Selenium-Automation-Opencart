@@ -15,7 +15,6 @@ public class TC_002_LoginTest extends BaseClass
 	public void verify_login()
 	{
 		logger.info("**** Starting TC_002_LoginTest  ****");
-		logger.debug("capturing application debug logs....");
 		try
 		{
 		//Home page
@@ -35,16 +34,13 @@ public class TC_002_LoginTest extends BaseClass
 		
 		//My Account Page
 		MyAccountPage macc=new MyAccountPage(driver);
-				
 		boolean targetPage=macc.isMyAccountPageExists();
-		
 		Assert.assertEquals(targetPage, true,"Login failed");
+		logger.info("**** Finished TC_002_LoginTest  ****");
 		}
 		catch(Exception e)
 		{
 			Assert.fail();
-		}
-		
-		logger.info("**** Finished TC_002_LoginTest  ****");
+		}		
 	}
 }

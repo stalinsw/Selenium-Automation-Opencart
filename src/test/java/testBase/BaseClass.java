@@ -1,6 +1,8 @@
 package testBase;
 
 import java.io.File;
+
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
@@ -30,7 +32,6 @@ public class BaseClass {
 	public static WebDriver driver;
 	public Logger logger;
 	public Properties pr;
-
 	
 	@BeforeClass(groups= {"sanity","regression","master"})
 	@Parameters({"os","browser"} )
@@ -63,7 +64,7 @@ public class BaseClass {
 			//browser
 			switch(br.toLowerCase())
 			{
-			case "chrome" : capabilities.setBrowserName("chrome"); break;
+			case "chrome" :capabilities.setBrowserName("chrome");break;
 			case "edge" : capabilities.setBrowserName("MicrosoftEdge"); break;
 			case "firefox" : capabilities.setBrowserName("FireFox"); break;
 			default: System.out.println("No matching browser.."); return;

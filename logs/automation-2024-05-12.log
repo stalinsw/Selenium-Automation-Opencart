@@ -1,0 +1,57 @@
+19:10:49.032 [main] INFO  testCases.TC_009_NewsletterCheck - *** TC_009_NewsletterCheck Started ***
+19:10:50.377 [main] INFO  testCases.TC_009_NewsletterCheck - Login into the account
+19:10:51.303 [main] INFO  testCases.TC_009_NewsletterCheck - Going to click newsletter
+19:10:51.895 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked
+19:10:53.047 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked again
+19:10:54.302 [main] INFO  testCases.TC_009_NewsletterCheck - Newsletter clicked third time
+19:10:54.392 [main] INFO  testCases.TC_009_NewsletterCheck - No radio button is selected
+19:10:54.897 [main] INFO  testCases.TC_009_NewsletterCheck - *** TC_009_NewsletterCheck Completed ***
+19:10:58.407 [main] INFO  testCases.TC_010_CarouselSliderCheck - *** TC_010_CarouselSliderCheck Started ***
+19:10:58.989 [main] INFO  testCases.TC_010_CarouselSliderCheck - Login into the account
+19:11:00.408 [main] INFO  testCases.TC_010_CarouselSliderCheck - Scrolled to view the carousel
+19:14:36.850 [main] DEBUG testCases.TC_007_AddressBookAddDelete - application logs started......
+19:14:36.863 [main] INFO  testCases.TC_007_AddressBookAddDelete - **** starting TC_007_AddressBookAddDelete  *****
+19:14:37.601 [main] INFO  testCases.TC_007_AddressBookAddDelete - Clicked on MyAccount link
+19:14:38.297 [main] INFO  testCases.TC_007_AddressBookAddDelete - Clicked on registration link
+19:14:38.297 [main] INFO  testCases.TC_007_AddressBookAddDelete - Entering customer details.. 
+19:14:42.378 [main] INFO  testCases.TC_007_AddressBookAddDelete - clicked on continue..
+19:14:42.444 [main] INFO  testCases.TC_007_AddressBookAddDelete - Validating expected message..
+19:14:43.175 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+19:14:46.909 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+19:14:50.596 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address
+19:16:33.197 [main] INFO  testCases.TC_005_EndtoEndTest - **** Starting TC_005_EndtoEndTest  ****
+19:16:34.126 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on MyAccount link
+19:16:34.750 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on registration link
+19:16:34.750 [main] INFO  testCases.TC_005_EndtoEndTest - Entering customer details.. 
+19:16:38.448 [main] INFO  testCases.TC_005_EndtoEndTest - clicked on continue..
+19:16:38.503 [main] INFO  testCases.TC_005_EndtoEndTest - Validating expected message..
+19:16:39.263 [main] INFO  testCases.TC_005_EndtoEndTest - My account clicked
+19:16:39.920 [main] INFO  testCases.TC_005_EndtoEndTest - Login clicked
+19:16:39.924 [main] INFO  testCases.TC_005_EndtoEndTest - Enterring user credentials
+19:16:40.773 [main] INFO  testCases.TC_005_EndtoEndTest - Login button clicked
+19:21:45.471 [main] INFO  testCases.TC_005_EndtoEndTest - **** Starting TC_005_EndtoEndTest  ****
+19:21:46.067 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on MyAccount link
+19:21:46.772 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on registration link
+19:21:46.772 [main] INFO  testCases.TC_005_EndtoEndTest - Entering customer details.. 
+19:21:50.649 [main] INFO  testCases.TC_005_EndtoEndTest - clicked on continue..
+19:21:50.723 [main] INFO  testCases.TC_005_EndtoEndTest - Validating expected message..
+19:21:51.558 [main] INFO  testCases.TC_005_EndtoEndTest - My account clicked
+19:21:52.059 [main] INFO  testCases.TC_005_EndtoEndTest - Login clicked
+19:21:52.068 [main] INFO  testCases.TC_005_EndtoEndTest - Enterring user credentials
+19:21:52.982 [main] INFO  testCases.TC_005_EndtoEndTest - Login button clicked
+19:22:58.024 [main] INFO  testCases.TC_005_EndtoEndTest - **** Starting TC_005_EndtoEndTest  ****
+19:22:58.980 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on MyAccount link
+19:22:59.607 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on registration link
+19:22:59.608 [main] INFO  testCases.TC_005_EndtoEndTest - Entering customer details.. 
+19:23:03.471 [main] INFO  testCases.TC_005_EndtoEndTest - clicked on continue..
+19:23:03.538 [main] INFO  testCases.TC_005_EndtoEndTest - Validating expected message..
+19:23:04.408 [main] INFO  testCases.TC_005_EndtoEndTest - My account clicked
+19:23:05.063 [main] INFO  testCases.TC_005_EndtoEndTest - Login clicked
+19:23:05.067 [main] INFO  testCases.TC_005_EndtoEndTest - Enterring user credentials
+19:23:05.872 [main] INFO  testCases.TC_005_EndtoEndTest - Login button clicked
+19:24:11.627 [main] INFO  testCases.TC_005_EndtoEndTest - **** Starting TC_005_EndtoEndTest  ****
+19:24:12.398 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on MyAccount link
+19:24:13.079 [main] INFO  testCases.TC_005_EndtoEndTest - Clicked on registration link
+19:24:13.079 [main] INFO  testCases.TC_005_EndtoEndTest - Entering customer details.. 
+19:24:17.042 [main] INFO  testCases.TC_005_EndtoEndTest - clicked on continue..
+19:24:17.110 [main] INFO  testCases.TC_005_EndtoEndTest - Validating expected message..

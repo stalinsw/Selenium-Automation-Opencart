@@ -1,0 +1,53 @@
+15:46:14.511 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+15:46:18.172 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+15:46:21.376 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address
+15:47:02.216 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login
+15:47:02.357 [main] INFO  testCases.TC_007_AddressBookAddDelete - My account clicked
+15:47:02.762 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login clicked
+15:47:04.393 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+15:47:07.739 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+15:47:11.225 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address
+15:49:10.438 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login
+15:49:11.299 [main] INFO  testCases.TC_007_AddressBookAddDelete - My account clicked
+15:49:11.947 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login clicked
+15:49:13.487 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+15:49:17.424 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+15:49:20.865 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address
+15:51:26.037 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login
+15:51:26.787 [main] INFO  testCases.TC_007_AddressBookAddDelete - My account clicked
+15:51:27.467 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login clicked
+15:51:29.244 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+15:51:33.049 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+15:51:36.386 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address
+15:53:15.266 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login
+15:53:16.065 [main] INFO  testCases.TC_007_AddressBookAddDelete - My account clicked
+15:53:16.648 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login clicked
+15:53:18.381 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+15:53:21.630 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+15:53:25.468 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address
+15:57:35.615 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login
+15:57:36.094 [main] INFO  testCases.TC_007_AddressBookAddDelete - My account clicked
+15:57:36.712 [main] INFO  testCases.TC_007_AddressBookAddDelete - Login clicked
+15:57:38.624 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+15:57:42.540 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+15:57:46.514 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address
+16:09:52.970 [main] DEBUG testCases.TC_007_AddressBookAddDelete - application logs started......
+16:09:52.978 [main] INFO  testCases.TC_007_AddressBookAddDelete - **** starting TC_007_AddressBookAddDelete  *****
+16:09:53.824 [main] INFO  testCases.TC_007_AddressBookAddDelete - Clicked on MyAccount link
+16:09:54.485 [main] INFO  testCases.TC_007_AddressBookAddDelete - Clicked on registration link
+16:09:54.486 [main] INFO  testCases.TC_007_AddressBookAddDelete - Entering customer details.. 
+16:09:58.252 [main] INFO  testCases.TC_007_AddressBookAddDelete - clicked on continue..
+16:09:58.315 [main] INFO  testCases.TC_007_AddressBookAddDelete - Validating expected message..
+16:09:59.013 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+16:10:02.680 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+16:10:06.540 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address
+16:11:33.444 [main] DEBUG testCases.TC_007_AddressBookAddDelete - application logs started......
+16:11:33.447 [main] INFO  testCases.TC_007_AddressBookAddDelete - **** starting TC_007_AddressBookAddDelete  *****
+16:11:34.193 [main] INFO  testCases.TC_007_AddressBookAddDelete - Clicked on MyAccount link
+16:11:34.907 [main] INFO  testCases.TC_007_AddressBookAddDelete - Clicked on registration link
+16:11:34.907 [main] INFO  testCases.TC_007_AddressBookAddDelete - Entering customer details.. 
+16:11:38.520 [main] INFO  testCases.TC_007_AddressBookAddDelete - clicked on continue..
+16:11:38.588 [main] INFO  testCases.TC_007_AddressBookAddDelete - Validating expected message..
+16:11:39.298 [main] INFO  testCases.TC_007_AddressBookAddDelete - First new address(default address) adding
+16:11:43.007 [main] INFO  testCases.TC_007_AddressBookAddDelete - Second new address adding
+16:11:46.545 [main] INFO  testCases.TC_007_AddressBookAddDelete - Deleting address except default address

@@ -2,18 +2,27 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Suite">
   
-    <listeners>
+<!--   <listeners>
 		<listener class-name="utilities.ExtentReportManager"/>
 	</listeners>
-	
+-->
   <test thread-count="5" name="Test">
   
   	<parameter name="os" value="windows" />
   	<parameter name="browser"  value="chrome"/>  
     <classes>
-       <class name="testCases.TC_001_AccountRegistrationPage"/>
+   <!--    <class name="testCases.TC_001_AccountRegistrationTest"/>
        <class name="testCases.TC_002_LoginTest"/> 
-       <!-- <class name="testCases.TC_003_LoginDDT"/>-->
+       <class name="testCases.TC_003_LoginDDT"/>
+       <class name="testCases.TC_004_SearchProduct"/> 
+       <class name="testCases.TC_005_EndtoEndTest"/> 
+       <class name="testCases.TC_006_MyAccountInfo"/> 
+       <class name="testCases.TC_007_AddressBookAddDelete"/>
+       <class name="testCases.TC_008_WishListCheck"/>
+       <class name="testCases.TC_009_NewsletterCheck"/> 
+       <class name="testCases.TC_010_CarouselSliderCheck"/>
+       <class name="testCases.TC_011_HomePageUICheck"/>-->
+       <class name="testCases.TC_012_MouseHoverTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
