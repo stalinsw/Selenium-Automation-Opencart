@@ -37,6 +37,27 @@ public class CameraProductPage extends BasePage{
 	@FindBy(xpath="//div[@class='alert alert-success alert-dismissible']")
 	WebElement textWishlist;
 	
+	@FindBy(xpath="//a[normalize-space()='Write a review']")
+	WebElement txtWriteReview;
+	
+	@FindBy(xpath="//input[@id='input-name']")
+	WebElement txtReviewName;
+	
+	@FindBy(xpath="//textarea[@id='input-review']")
+	WebElement txtReview;
+	
+	@FindBy(xpath="//div[@class='alert alert-success alert-dismissible']")
+	WebElement msgReviewSuccess;
+	
+	@FindBy(xpath="//input[@value='4']")
+	WebElement bltReview;
+	
+	@FindBy(xpath="//button[@id='button-review']")
+	WebElement btnReviewContinue;
+	
+	@FindBy(xpath="//h2[normalize-space()='$80.00']")
+	WebElement txtPriceCamera;
+
 	public void typeQuantity(String quantity)
 	{
 		fieldQuantity.clear();
@@ -52,6 +73,9 @@ public class CameraProductPage extends BasePage{
 		s.selectByIndex(1);
 		
 	}
+	public void clickWriteReview() {
+		txtWriteReview.click();
+	}
 	public String getProductText() {
 		return textCamera.getText(); 
 	}
@@ -64,5 +88,23 @@ public class CameraProductPage extends BasePage{
 	public boolean isExistAddtoCart() {
 		
 		return btnAddtoCart.isDisplayed();
+	}
+	public void typeReviewName(String name) {
+		txtReviewName.sendKeys(name);
+	}
+	public void typeReview(String text) {
+		txtReview.sendKeys(text);
+	}
+	public void clickBltReview() {
+		bltReview.click();
+	}
+	public void clickReviewContinue() {
+		btnReviewContinue.click();
+	}
+	public String getMsgSuccessReview() {
+		return msgReviewSuccess.getText();
+	}
+	public String getTextPrice() {
+		return txtPriceCamera.getText();
 	}
 }

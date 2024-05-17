@@ -1,2 +1,4 @@
-23:13:07.698 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
-23:13:44.788 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+00:08:21.420 [main] INFO  testCases.TC_014_ProductReturnTest - My account clicked
+00:08:22.032 [main] INFO  testCases.TC_014_ProductReturnTest - Login clicked
+00:08:22.039 [main] INFO  testCases.TC_014_ProductReturnTest - Enterring user credentials
+00:08:22.959 [main] INFO  testCases.TC_014_ProductReturnTest - Login button clicked

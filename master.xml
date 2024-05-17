@@ -21,8 +21,10 @@
        <class name="testCases.TC_008_WishListCheck"/>
        <class name="testCases.TC_009_NewsletterCheck"/> 
        <class name="testCases.TC_010_CarouselSliderCheck"/>
-       <class name="testCases.TC_011_HomePageUICheck"/>-->
-       <class name="testCases.TC_012_MouseHoverTest"/>
+       <class name="testCases.TC_011_HomePageUICheck"/>
+       <class name="testCases.TC_012_MouseHoverTest"/> 
+       <class name="testCases.TC_013_AddReviewTest"/>-->
+       <class name="testCases.TC_014_ProductReturnTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

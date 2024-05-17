@@ -5,14 +5,13 @@
     <parameter name="os" value="windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC_012_MouseHoverTest">
+      <class name="testCases.TC_014_ProductReturnTest">
         <methods>
           <include name="teardown"/>
-          <include name="login"/>
-          <include name="checkHomeMouseHover"/>
           <include name="setup"/>
+          <include name="verify_product_return"/>
         </methods>
-      </class> <!-- testCases.TC_012_MouseHoverTest -->
+      </class> <!-- testCases.TC_014_ProductReturnTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

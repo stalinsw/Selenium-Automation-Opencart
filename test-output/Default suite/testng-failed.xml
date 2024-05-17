@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testCases.TC_011_HomePageUICheck">
+      <class name="testCases.TC_014_ProductReturnTest">
         <methods>
           <include name="teardown"/>
-          <include name="verify_header_tabs"/>
           <include name="setup"/>
+          <include name="verify_product_return"/>
         </methods>
-      </class> <!-- testCases.TC_011_HomePageUICheck -->
+      </class> <!-- testCases.TC_014_ProductReturnTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

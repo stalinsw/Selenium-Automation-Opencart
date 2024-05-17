@@ -18,7 +18,6 @@ public class HomePage extends BasePage {
 	public HomePage(WebDriver driver)
 	{
 		super(driver);
-		this.driver=driver;
 	}	
 	
 	WebDriverWait wait = new WebDriverWait(super.driver,Duration.ofSeconds(10));
@@ -113,6 +112,12 @@ public class HomePage extends BasePage {
 	
 	@FindBy(xpath="//div[contains(@class,'swiper-pagination slideshow')]//child::span")
 	List <WebElement> bulletCarouselMain;
+	
+	@FindBy(xpath="//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Order History']")
+	WebElement lnkOrderHistory;
+	
+	@FindBy(xpath="//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='My Account']")
+	WebElement lnkMyAccountDrp;
 	
 	public void clickMyAccount()
 	{
@@ -245,5 +250,11 @@ public class HomePage extends BasePage {
 	
 	public void backwardpage() {
 		driver.navigate().back();
+	}
+	public void clickOrderHistory() {
+		lnkOrderHistory.click();
+	}
+	public void clickMyaccountDrp() {
+		lnkMyAccountDrp.click();
 	}
 }

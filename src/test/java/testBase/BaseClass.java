@@ -110,6 +110,12 @@ public class BaseClass {
 
 		return (str+"@"+num);
 	}
+	
+	public String randomLengthyString() { 
+		String generatedString=RandomStringUtils.randomAlphabetic(25);
+		return generatedString;
+	}
+	
 	public String captureScreen(String tname) throws IOException {
 
 		String timeStamp = new SimpleDateFormat("yyyyMMddhhmmss").format(new Date());

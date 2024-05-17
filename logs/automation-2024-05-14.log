@@ -1,0 +1,56 @@
+23:13:07.698 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+23:13:44.788 [main] INFO  testCases.TC_012_MouseHoverTest - Login into the account
+22:33:52.882 [main] INFO  testCases.TC_013_AddReviewTest - Login into the account
+22:38:03.892 [main] INFO  testCases.TC_013_AddReviewTest - Login into the account
+22:38:55.126 [main] INFO  testCases.TC_013_AddReviewTest - Login into the account
+22:39:50.085 [main] INFO  testCases.TC_013_AddReviewTest - Login into the account
+22:41:07.653 [main] INFO  testCases.TC_013_AddReviewTest - Login into the account
+22:41:24.521 [main] INFO  testCases.TC_013_AddReviewTest - Login into the account
+22:41:57.386 [main] INFO  testCases.TC_013_AddReviewTest - Login into the account
+22:42:35.769 [main] INFO  testCases.TC_013_AddReviewTest - Login into the account
+22:53:59.056 [main] INFO  testCases.TC_014_ProductReturnTest - **** Starting TC_005_EndtoEndTest  ****
+22:53:59.821 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on MyAccount link
+22:54:00.581 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on registration link
+22:54:00.584 [main] INFO  testCases.TC_014_ProductReturnTest - Entering customer details.. 
+22:54:03.977 [main] INFO  testCases.TC_014_ProductReturnTest - clicked on continue..
+22:54:04.037 [main] INFO  testCases.TC_014_ProductReturnTest - Validating expected message..
+22:54:04.544 [main] INFO  testCases.TC_014_ProductReturnTest - My account clicked
+22:54:04.876 [main] INFO  testCases.TC_014_ProductReturnTest - Login clicked
+22:54:04.879 [main] INFO  testCases.TC_014_ProductReturnTest - Enterring user credentials
+22:54:05.519 [main] INFO  testCases.TC_014_ProductReturnTest - Login button clicked
+22:54:19.748 [main] INFO  testCases.TC_014_ProductReturnTest - **** Starting TC_005_EndtoEndTest  ****
+22:54:19.909 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on MyAccount link
+22:56:40.990 [main] INFO  testCases.TC_014_ProductReturnTest - **** Starting TC_005_EndtoEndTest  ****
+22:56:41.667 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on MyAccount link
+22:56:42.198 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on registration link
+22:56:42.198 [main] INFO  testCases.TC_014_ProductReturnTest - Entering customer details.. 
+22:56:45.378 [main] INFO  testCases.TC_014_ProductReturnTest - clicked on continue..
+22:56:45.429 [main] INFO  testCases.TC_014_ProductReturnTest - Validating expected message..
+22:56:45.901 [main] INFO  testCases.TC_014_ProductReturnTest - My account clicked
+22:56:46.319 [main] INFO  testCases.TC_014_ProductReturnTest - Login clicked
+22:56:46.321 [main] INFO  testCases.TC_014_ProductReturnTest - Enterring user credentials
+22:56:47.012 [main] INFO  testCases.TC_014_ProductReturnTest - Login button clicked
+22:57:00.041 [main] INFO  testCases.TC_014_ProductReturnTest - **** Starting TC_005_EndtoEndTest  ****
+22:57:00.117 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on MyAccount link
+22:58:46.725 [main] INFO  testCases.TC_014_ProductReturnTest - **** Starting TC_005_EndtoEndTest  ****
+22:58:46.987 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on MyAccount link
+22:58:47.553 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on registration link
+22:58:47.553 [main] INFO  testCases.TC_014_ProductReturnTest - Entering customer details.. 
+22:58:50.735 [main] INFO  testCases.TC_014_ProductReturnTest - clicked on continue..
+22:58:50.803 [main] INFO  testCases.TC_014_ProductReturnTest - Validating expected message..
+22:58:51.326 [main] INFO  testCases.TC_014_ProductReturnTest - My account clicked
+22:58:51.696 [main] INFO  testCases.TC_014_ProductReturnTest - Login clicked
+22:58:51.697 [main] INFO  testCases.TC_014_ProductReturnTest - Enterring user credentials
+22:58:52.342 [main] INFO  testCases.TC_014_ProductReturnTest - Login button clicked
+22:59:05.128 [main] INFO  testCases.TC_014_ProductReturnTest - **** Starting TC_005_EndtoEndTest  ****
+22:59:05.183 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on MyAccount link
+23:00:16.749 [main] INFO  testCases.TC_014_ProductReturnTest - **** Starting TC_005_EndtoEndTest  ****
+23:00:17.510 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on MyAccount link
+23:00:17.992 [main] INFO  testCases.TC_014_ProductReturnTest - Clicked on registration link
+23:00:17.992 [main] INFO  testCases.TC_014_ProductReturnTest - Entering customer details.. 
+23:00:21.219 [main] INFO  testCases.TC_014_ProductReturnTest - clicked on continue..
+23:00:21.270 [main] INFO  testCases.TC_014_ProductReturnTest - Validating expected message..
+23:00:21.786 [main] INFO  testCases.TC_014_ProductReturnTest - My account clicked
+23:00:22.155 [main] INFO  testCases.TC_014_ProductReturnTest - Login clicked
+23:00:22.161 [main] INFO  testCases.TC_014_ProductReturnTest - Enterring user credentials
+23:00:22.848 [main] INFO  testCases.TC_014_ProductReturnTest - Login button clicked

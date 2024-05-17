@@ -36,6 +36,12 @@ public class MyAccountPage extends BasePage{
 	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Newsletter']")
 	WebElement tabNewsletter;
 	
+	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Returns']")
+	WebElement tabReturn;
+	
+	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Order History']")
+	WebElement tabOrderHistory;
+	
 	public boolean isMyAccountPageExists()
 	{
 		try {
@@ -78,5 +84,11 @@ public class MyAccountPage extends BasePage{
 	
 	public void clickNewsletter() {
 		tabNewsletter.click();
+	}
+	public void clickReturn() {
+		tabReturn.click();
+	}
+	public void clickOrderHistory() {
+		tabOrderHistory.click();
 	}
 }
